@@ -13,7 +13,7 @@ from langchain.chains import RetrievalQA
 
 # This file is in the solutions folder to separate the solution
 # from the starter project code.
-from solutions.llm import llm, embeddings
+from llm import llm, embeddings
 
 """
 In your app, the `llm` file should be in the project root directory.

@@ -3,3 +3,6 @@ openai
 langchain_openai
 neo4j-driver
 streamlit
+langchain_community
+langchainhub
+uuid

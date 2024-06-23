@@ -2,7 +2,7 @@
 from langchain.tools import Tool
 # end::importtool[]
 
-from solutions import llm
+from llm import llm
 
 # tag::tool[]
 tools = [
